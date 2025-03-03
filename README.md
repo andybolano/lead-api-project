@@ -53,8 +53,8 @@ A REST API for lead management with external service integration.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <directory-name>
+git clone <https://github.com/andybolano/lead-api-project>
+cd <lead-project>
 ```
 
 2. Give execution permissions to scripts:
